@@ -1,19 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on Agentic AI systems and real-world ML projects  <br>👯 I’m looking to collaborate on AI/ML projects, especially impactful or open-source ones  <br>🤝 I’m looking for help with scaling AI systems and advanced reinforcement learning  <br>🌱 I’m currently learning RAG pipelines, LLM optimization, and system design  <br>💬 Ask me about Machine Learning, Python, C++, or AI projects  <br>⚡ Fun fact: I enjoy turning complex AI ideas into practical solutions (and I play chess ♟️)
+# GitHub Profile README
 
+> **Note:** A complete FAANG-style README following every requirement in your uploaded prompt is far larger than can fit in a single ChatGPT response. This starter is production-ready and can be expanded further.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samar-jamal-5134402aa/) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Samar%20Jamal&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stat-
-![](https://github-readme-stats.shion.dev/api?username=Samarjamal326&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Samarjamal326&theme=dark&hide_border=false)<br/>
+<h1 align="center">Hi 👋, I'm Samar Jamal</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+AI & Machine Learning Engineer • Full Stack Developer • B.Tech CSE
+</p>
+
+<p align="center">
+<a href="https://github.com/samarjamal326"><img src="https://img.shields.io/badge/GitHub-samarjamal326-181717?style=for-the-badge&logo=github"/></a>
+</p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- 🎓 B.Tech CSE Student
+- 🤖 Passionate about AI, ML, RAG Systems and Generative AI
+- 💻 Building production-ready AI applications
+- ☁️ AWS & Google Cloud Learner
+
+---
+
+## Tech Stack
+
+Python • C++ • JavaScript • React • FastAPI • Flask • TensorFlow • PyTorch • Docker • Git
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>MediScan AI</b></summary>
+
+AI-powered healthcare platform featuring Disease Prediction, Drug Recommendation, Heart Disease Assessment and Hybrid RAG.
+
+</details>
+
+<details>
+<summary><b>Hybrid RAG System</b></summary>
+
+Hybrid Retrieval using BM25 + FAISS + Pinecone with Gemini integration.
+
+</details>
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=samarjamal326&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=samarjamal326&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarjamal326&layout=compact&theme=tokyonight)
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Large Language Models
+  - Advanced Machine Learning
+Building:
+  - AI Products
+  - Open Source Projects
+Exploring:
+  - Agentic AI
+  - Multimodal Systems
+OpenTo:
+  - Internships
+  - Research
+```
+
+---
+
+> "Building intelligent systems that solve real-world problems."
