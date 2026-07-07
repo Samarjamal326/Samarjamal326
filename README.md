@@ -1,4 +1,4 @@
-::: {align="center"}
+{align="center"}
 `<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header"/>`{=html}
 
 # Samar Jamal
@@ -214,4 +214,3 @@ OpenTo:
 *"Building intelligent systems that create real-world impact."*
 
 `<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>`{=html}
-:::
