@@ -2,20 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Samar+Jamal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;B.Tech+CSE+%40+Graphic+Era+University;AWS+Cloud+Practitioner;Google+Cloud+Arcade+Enthusiast;Amazon+ML+Summer+School+HackOn+Top+75" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Samar+Jamal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;B.Tech+CSE+%40+Graphic+Era+University;AWS+Cloud+Practitioner;Google+Cloud+Arcade+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)-Graphic_Era_Hill_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)-Graphic_Era_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Dehradun,_Uttarakhand,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio--A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/samar-jamal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,9 +44,9 @@
 
 I am an **AI & Machine Learning Engineer** and **Full Stack Developer**, currently pursuing a B.Tech in Computer Science (Specialization in AI & ML) at **Graphic Era University**.
 
-My work spans the full lifecycle of intelligent systems — from training and evaluating deep learning models to building retrieval-augmented pipelines and shipping full-stack products around them. I'm especially drawn to the space where **Generative AI, Healthcare AI, Computer Vision, and Reinforcement Learning** meet real, usable software.
+My work spans training and evaluating deep learning models, building retrieval-augmented generation pipelines, and shipping full-stack products around them. I'm particularly drawn to the space where **Generative AI, Healthcare AI, and Computer Vision** meet real, usable software, and I enjoy exploring new architectures alongside practical engineering.
 
-I'm an active competitive programmer and open-source contributor, and I've been selected for **Amazon ML Summer School (HackOn Top 75)**, alongside 100+ labs completed in the **Google Cloud Arcade** program.
+I'm an active competitive programmer and continuously build on cloud and AI learning programs to stay current with the field.
 
 **Open to:** AI/ML Internships · Software Engineering Roles · Research Collaborations
 
@@ -97,6 +95,85 @@ I'm an active competitive programmer and open-source contributor, and I've been 
 
 ## Featured Projects
 
+<details>
+<summary><b>MediScan AI — Personalized Healthcare Intelligence Platform</b></summary>
+
+<br/>
+
+> Full-stack AI healthcare platform with disease prediction, drug recommendation, and heart risk assessment.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | React · TypeScript · Node.js · PostgreSQL · Gemini API · Pinecone |
+| **Features** | RAG chatbot, contextual query rewriting, source-grounded retrieval, medical guardrails |
+| **Repository** | [github.com/Samarjamal326/Mediscanai](https://github.com/Samarjamal326/Mediscanai) |
+
+**What it does:** Combines a conversational RAG chatbot (Gemini + Pinecone + semantic search) with dedicated ML modules for disease prediction, drug recommendation, and heart disease risk assessment.
+
+</details>
+
+<details>
+<summary><b>PharmaSafe — AI Drug Recommendation</b></summary>
+
+<br/>
+
+> ML-driven module that recommends medications based on patient symptoms and history.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · Scikit-learn · Gemini API |
+| **Repository** | [github.com/Samarjamal326/Pharmasafe01](https://github.com/Samarjamal326/Pharmasafe01) |
+
+**What it does:** Analyzes patient input to surface relevant drug recommendations with guardrails against unsafe suggestions.
+
+</details>
+
+<details>
+<summary><b>Harmony — Hybrid Neural Architecture Research</b></summary>
+
+<br/>
+
+> Post-Transformer neural architecture research combining attention, SSM-based layers, and KV-cache optimization.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · PyTorch · Research / Long-Context Sequence Modeling |
+| **Repository** | [github.com/Samarjamal326/Harmony](https://github.com/Samarjamal326/Harmony) |
+
+**What it does:** Explores a hybrid architecture for long-context sequence modeling, combining the strengths of attention and state-space model layers for efficient long-sequence processing.
+
+</details>
+
+<details>
+<summary><b>Hybrid RAG System</b></summary>
+
+<br/>
+
+> Retrieval-augmented generation system combining dense and sparse retrieval for higher-precision answers.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · Pinecone · Semantic Search · LLM APIs |
+
+**What it does:** Blends dense vector retrieval with keyword-based search and conversational memory to ground LLM responses in real source documents, reducing hallucination.
+
+</details>
+
+<details>
+<summary><b>Gesture Controlled PC</b></summary>
+
+<br/>
+
+> Computer vision system that lets you control your PC using hand gestures.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · OpenCV · Computer Vision |
+
+**What it does:** Tracks hand landmarks in real time to translate gestures into system-level controls — no mouse or keyboard required.
+
+</details>
+
 ---
 
 ## Achievements
@@ -117,14 +194,28 @@ I'm an active competitive programmer and open-source contributor, and I've been 
 
 ---
 
+## GitHub Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pull_Shark-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/YOLO-a371f7?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Quickdraw-d29922?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+*(these reflect the achievement badges shown on your GitHub profile — let me know if any are off and I'll swap them)*
+
+---
+
 ## Certifications
 
 <div align="center">
 
 **Amazon Web Services**
 
-![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner_Learning_Plan-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-&nbsp;
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 <br/>
@@ -139,6 +230,12 @@ I'm an active competitive programmer and open-source contributor, and I've been 
 
 ![Deep Learning & RL](https://img.shields.io/badge/IBM-Deep_Learning_%26_Reinforcement_Learning-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
+<br/>
+
+**ServiceNow**
+
+![ServiceNow Virtual Internship](https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C487?style=flat-square&logo=servicenow&logoColor=white)
+
 </div>
 
 ---
@@ -151,17 +248,11 @@ I'm an active competitive programmer and open-source contributor, and I've been 
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-ADD_YOUR_USERNAME-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 &nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-ADD_YOUR_USERNAME-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 &nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-ADD_YOUR_USERNAME-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 
 </div>
 
@@ -171,15 +262,17 @@ I'm an active competitive programmer and open-source contributor, and I've been 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samarjamal326&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samarjamal326&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=samarjamal326&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Samarjamal326&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarjamal326&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarjamal326&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+> Note: these are free, community-run widgets (Vercel/Heroku-hosted). They occasionally fail to load on first request due to shared rate limits — refreshing the page usually fixes it.
 
 ---
 
@@ -193,7 +286,7 @@ I'm an active competitive programmer and open-source contributor, and I've been 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/samarjamal326/samarjamal326/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -203,23 +296,24 @@ I'm an active competitive programmer and open-source contributor, and I've been 
 
 ```yaml
 Learning:
-  - Agentic AI & Multimodal Systems
+  - Large Language Models
+  - Agentic AI
+  - Multimodal AI
   - System Design
-  - MLOps
 
 Building:
   - MediScan AI
-  - Hybrid RAG pipelines
-  - Edge AI / assistive tech projects
+  - Harmony
+  - PharmaSafe
 
 Exploring:
-  - Reinforcement Learning for real-world simulation
-  - Post-Transformer architectures
-  - AWS ecosystem (Bedrock, Lambda, RDS)
+  - Retrieval-Augmented Generation
+  - Efficient AI Systems
+  - Cloud AI Infrastructure
 
 Open To:
   - AI/ML Internships
-  - Software Engineering Roles
+  - Software Engineering Internships
   - Research Collaborations
 ```
 
@@ -241,9 +335,7 @@ Open To:
   <img src="https://img.shields.io/badge/GitHub-Samarjamal326-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio--7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
