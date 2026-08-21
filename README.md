@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Samar+Jamal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;B.Tech+CSE+%40+Graphic+Era+University;AWS+Cloud+Practitioner;Google+Cloud+Arcade+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Samar+Jamal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;B.Tech+CSE+%40+Graphic+Era+University;Building+AI+Systems+That+Matter" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://samarjamal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/samar-jamal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -28,11 +30,11 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Samarjamal326&color=7C3AED&style=flat-square&label=Profile+Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Samarjamal326?style=flat-square&color=6366F1&label=Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Samarjamal326?style=flat-square&color=A78BFA&label=Stars"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Samarjamal326&color=7C3AED&style=flat-square&label=Profile+Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Samarjamal326?style=flat-square&color=6366F1&label=Followers"/>
+</p>
 
 </div>
 
@@ -40,25 +42,37 @@
 
 ---
 
-## About
+# 👨‍💻 About Me
 
-I am an **AI & Machine Learning Engineer** and **Full Stack Developer**, currently pursuing a B.Tech in Computer Science (Specialization in AI & ML) at **Graphic Era University**.
+I am an **AI & Machine Learning Engineer** and **Full Stack Developer**, currently pursuing a B.Tech in Computer Science with a specialization in **Artificial Intelligence & Machine Learning** at **Graphic Era University**.
 
-My work spans training and evaluating deep learning models, building retrieval-augmented generation pipelines, and shipping full-stack products around them. I'm particularly drawn to the space where **Generative AI, Healthcare AI, and Computer Vision** meet real, usable software, and I enjoy exploring new architectures alongside practical engineering.
+My work focuses on building practical AI systems spanning **Machine Learning, Deep Learning, Computer Vision, Large Language Models, RAG, and Agentic AI**.
 
-I'm an active competitive programmer and continuously build on cloud and AI learning programs to stay current with the field.
+I'm particularly interested in the intersection of **Generative AI, Healthcare AI, Computer Vision, and intelligent systems**, where research can be transformed into useful real-world applications.
 
-**Open to:** AI/ML Internships · Software Engineering Roles · Research Collaborations
+- 🔭 Currently building **Medi Orchestrator**
+- 🧠 Exploring **LLMs, RAG, Agentic AI and Multimodal Systems**
+- 🔬 Researching **long-context and efficient neural architectures**
+- 💻 Active in **hackathons, AI competitions and collaborative projects**
+- 🤝 Open to **AI/ML internships, research collaborations and interesting projects**
 
 ---
 
-## Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark"/>
 </p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+</p>
+
+`Scikit-learn` · `NumPy` · `Pandas` · `LangChain` · `Pinecone` · `RAG` · `LLMs`
 
 ### Frontend
 
@@ -72,198 +86,197 @@ I'm an active competitive programmer and continuously build on cloud and AI lear
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,postgres,firebase&theme=dark"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,aws,gcp,linux,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,github&theme=dark"/>
 </p>
 
 ---
 
-## AI / ML Expertise
+# 🧠 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Experience | Technologies / Concepts |
 |---|---|---|
-| **Large Language Models** | Advanced | Prompt engineering, RAG pipelines, Gemini API integration |
-| **Hybrid Retrieval (RAG)** | Advanced | Semantic search, Pinecone, contextual query rewriting |
-| **Computer Vision** | Advanced | EfficientNet, YOLO, OpenCV, transfer learning |
-| **Reinforcement Learning** | Learning | Currently exploring RL concepts and applications |
-| **Healthcare AI** | Experienced | Disease prediction, drug recommendation, risk assessment |
-| **Deep Learning** | Advanced | PyTorch, TensorFlow, CUDA AMP, model evaluation |
+| **Large Language Models** | Advanced | LLM APIs, prompting, structured outputs |
+| **RAG Systems** | Advanced | Pinecone, semantic search, hybrid retrieval |
+| **Agentic AI** | Exploring | LangChain, LangGraph, multi-agent workflows |
+| **Computer Vision** | Advanced | EfficientNet, OpenCV, transfer learning |
+| **Deep Learning** | Advanced | PyTorch, TensorFlow, AMP, model evaluation |
+| **Healthcare AI** | Experienced | Disease prediction, medical RAG, recommendation systems |
+| **Multimodal AI** | Exploring | Vision-language systems and multimodal architectures |
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
 <details>
-<summary><b>MediScan AI — Personalized Healthcare Intelligence Platform</b></summary>
+<summary><b>🏥 MediScan AI — Personalized Healthcare Intelligence Platform</b></summary>
 
 <br/>
 
-> Full-stack AI healthcare platform with disease prediction, drug recommendation, and heart risk assessment.
+> Full-stack AI healthcare platform combining machine learning, retrieval-augmented generation and intelligent healthcare assistance.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | React · TypeScript · Node.js · PostgreSQL · Gemini API · Pinecone |
-| **Features** | RAG chatbot, contextual query rewriting, source-grounded retrieval, medical guardrails |
-| **Repository** | [github.com/Samarjamal326/Mediscanai](https://github.com/Samarjamal326/Mediscanai) |
+| **AI** | RAG · Semantic Search · Contextual Query Rewriting |
+| **Features** | Disease Prediction · Drug Recommendation · Healthcare Chatbot |
+| **Repository** | [View Project](https://github.com/Samarjamal326/Mediscanai) |
 
-**What it does:** Combines a conversational RAG chatbot (Gemini + Pinecone + semantic search) with dedicated ML modules for disease prediction, drug recommendation, and heart disease risk assessment.
-
-</details>
-
-<details>
-<summary><b>PharmaSafe — AI Drug Recommendation</b></summary>
-
-<br/>
-
-> ML-driven module that recommends medications based on patient symptoms and history.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Scikit-learn · Gemini API |
-| **Repository** | [github.com/Samarjamal326/Pharmasafe01](https://github.com/Samarjamal326/Pharmasafe01) |
-
-**What it does:** Analyzes patient input to surface relevant drug recommendations with guardrails against unsafe suggestions.
+**What it does:** MediScan AI combines a conversational RAG system with machine learning models for disease prediction, drug recommendations and health risk assessment.
 
 </details>
 
+<br/>
+
 <details>
-<summary><b>Harmony — Hybrid Neural Architecture Research</b></summary>
+<summary><b>🧠 Medi Orchestrator — Multi-Agent Healthcare System</b></summary>
 
 <br/>
 
-> Post-Transformer neural architecture research combining attention, SSM-based layers, and KV-cache optimization.
+> An AI-powered healthcare orchestration system currently under development.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · PyTorch · Research / Long-Context Sequence Modeling |
-| **Repository** | [github.com/Samarjamal326/Harmony](https://github.com/Samarjamal326/Harmony) |
+| **Status** | 🚧 In Development |
+| **Architecture** | Multi-Agent System · Intelligent Routing |
+| **AI** | LLMs · RAG · Agentic Workflows |
+| **Stack** | FastAPI · LangChain · LangGraph · React · PostgreSQL · Redis |
 
-**What it does:** Explores a hybrid architecture for long-context sequence modeling, combining the strengths of attention and state-space model layers for efficient long-sequence processing.
+**What it does:** Medi Orchestrator aims to route healthcare queries through specialized AI agents, combining retrieval, memory and intelligent orchestration for more structured and context-aware responses.
 
 </details>
 
+<br/>
+
 <details>
-<summary><b>Hybrid RAG System</b></summary>
+<summary><b>🔬 Harmony — Hybrid Neural Architecture Research</b></summary>
 
 <br/>
 
-> Retrieval-augmented generation system combining dense and sparse retrieval for higher-precision answers.
+> Research exploring efficient architectures for long-context sequence modeling.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · Pinecone · Semantic Search · LLM APIs |
+| **Stack** | Python · PyTorch |
+| **Research Area** | Long-Context Modeling |
+| **Concepts** | Attention · State Space Models · Memory · Efficient Sequence Processing |
+| **Repository** | [View Project](https://github.com/Samarjamal326/Harmony) |
 
-**What it does:** Blends dense vector retrieval with keyword-based search and conversational memory to ground LLM responses in real source documents, reducing hallucination.
+**What it does:** Harmony explores hybrid neural architectures combining attention mechanisms and state-space modeling concepts for efficient long-sequence processing.
 
 </details>
 
+<br/>
+
 <details>
-<summary><b>Gesture Controlled PC</b></summary>
+<summary><b>🔎 Hybrid RAG System</b></summary>
 
 <br/>
 
-> Computer vision system that lets you control your PC using hand gestures.
+> Retrieval-augmented generation system combining multiple retrieval strategies.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · OpenCV · Computer Vision |
+| **Stack** | Python · Pinecone · LLM APIs |
+| **Techniques** | Dense Retrieval · Semantic Search · Contextual Retrieval |
 
-**What it does:** Tracks hand landmarks in real time to translate gestures into system-level controls — no mouse or keyboard required.
+**What it does:** Combines semantic retrieval with keyword-based search and conversational context to improve answer grounding and reduce hallucinations.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🖼️ Scene Classification</b></summary>
+
+<br/>
+
+> Deep learning model for large-scale scene classification using transfer learning.
+
+| Attribute | Detail |
+|---|---|
+| **Model** | EfficientNet-B2 |
+| **Framework** | PyTorch |
+| **Techniques** | Transfer Learning · AMP · TTA · AdamW · CosineAnnealingLR |
+| **Dataset** | SUN397 |
+
+**What it does:** Fine-tuned a deep learning model for scene recognition using modern training and inference optimization techniques.
 
 </details>
 
 ---
 
-## Achievements
+# 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| Amazon ML Summer School | HackOn Top 75 |
-| Google Cloud Arcade | 100+ Labs completed |
-| AWS Cloud Practitioner | Certified |
-| Smart India Hackathon | Participant |
-| Hack-O-Holic 3.0 | 2nd Runner-Up among 500+ participants |
-| Codev Club | Core Member — organized 3+ hackathons |
-| LeetCode | Active problem solver |
+| 🟠 **Amazon ML Summer School** | Selected Participant |
+| 🏅 **Amazon HackOn Season 6** | Top 75 Coders |
+| ☁️ **Google Cloud Arcade** | 100+ Labs Completed |
+| 🟡 **Google Cloud Arcade** | Arcade Legend / Top University Performer |
+| ☁️ **AWS Cloud Practitioner** | Completed AWS Cloud Practitioner Essentials |
+| 🏆 **Smart India Hackathon** | Finalist / Participant |
+| 🚀 **Hackathons** | Participated in 10+ National-Level Hackathons |
+| 💻 **LeetCode** | Active Problem Solver |
 
 </div>
 
 ---
 
-## GitHub Achievements
+# 📜 Certifications & Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pull_Shark-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/YOLO-a371f7?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Quickdraw-d29922?style=for-the-badge&logo=github&logoColor=white"/>
+### Amazon Web Services
 
-</div>
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-*(these reflect the achievement badges shown on your GitHub profile — let me know if any are off and I'll swap them)*
+### Google Cloud
 
----
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Arcade_Program_(100%2B_Labs)-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## Certifications
+### AI / Deep Learning
 
-<div align="center">
+![IBM](https://img.shields.io/badge/IBM-Deep_Learning_%26_Reinforcement_Learning-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-**Amazon Web Services**
+### ServiceNow
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-<br/>
-
-**Google Cloud**
-
-![Google Cloud Arcade](https://img.shields.io/badge/Google_Cloud-Arcade_Program_(100%2B_Labs)-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-<br/>
-
-**IBM / Coursera**
-
-![Deep Learning & RL](https://img.shields.io/badge/IBM-Deep_Learning_%26_Reinforcement_Learning-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-<br/>
-
-**ServiceNow**
-
-![ServiceNow Virtual Internship](https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C487?style=flat-square&logo=servicenow&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C487?style=flat-square&logo=servicenow&logoColor=white)
 
 </div>
 
 ---
 
-## Coding Profiles
+# 💻 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Samar_Jamal/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 &nbsp;
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+<a href="https://github.com/Samarjamal326" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Samarjamal326-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Samarjamal326&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
 &nbsp;
+
 <img height="180" src="https://streak-stats.demolab.com?user=Samarjamal326&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
@@ -272,86 +285,59 @@ I'm an active competitive programmer and continuously build on cloud and AI lear
 
 </div>
 
-> Note: these are free, community-run widgets (Vercel/Heroku-hosted). They occasionally fail to load on first request due to shared rate limits — refreshing the page usually fixes it.
+> Note: GitHub statistics widgets are community-hosted and can occasionally fail due to rate limits. Refreshing the page may resolve this.
 
 ---
 
-## Contribution Activity
+# 🐍 Contribution Snake
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution snake"
-      src="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
+</div>
 
 ---
 
-## Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
   - Large Language Models
   - Agentic AI
   - Multimodal AI
+  - Advanced Deep Learning
   - System Design
 
 Building:
+  - Medi Orchestrator
   - MediScan AI
-  - Harmony
-  - PharmaSafe
+  - AI and Healthcare Systems
 
-Exploring:
+Researching:
+  - Long-Context AI
+  - Efficient Neural Architectures
   - Retrieval-Augmented Generation
-  - Efficient AI Systems
-  - Cloud AI Infrastructure
+  - Multi-Agent Systems
 
 Open To:
   - AI/ML Internships
-  - Software Engineering Internships
   - Research Collaborations
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:Samarjamal326@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Samarjamal326@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/samar-jamal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Samar_Jamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Samarjamal326" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Samarjamal326-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Building intelligent systems that create real-world impact.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
+  - Hackathons
+  - Open Source Contributions
