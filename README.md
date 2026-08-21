@@ -278,17 +278,24 @@ I'm an active competitive programmer and continuously build on cloud and AI lear
 
 ## Contribution Activity
 
-<div align="center">
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarjamal326&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/Samarjamal326/Samarjamal326/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ---
 
